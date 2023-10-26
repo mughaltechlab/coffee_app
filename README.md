@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-
+<img src="https://github.com/mughaltechlab/coffee_app/assets/75667871/2c594e68-60b5-457e-9bea-3979f7890dc3" width="200" />
 ![1](https://github.com/mughaltechlab/coffee_app/assets/75667871/2c594e68-60b5-457e-9bea-3979f7890dc3)
 ![8](https://github.com/mughaltechlab/coffee_app/assets/75667871/dbcb66e8-8fde-4d03-b3c6-95a3279c4ce7)
 ![7](https://github.com/mughaltechlab/coffee_app/assets/75667871/690267db-cc88-48f5-a29a-99975bf4ee8b)
